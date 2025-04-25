@@ -1,0 +1,27 @@
+# llms.txt for https://aw-advantage.com/
+# Last updated: 2025-04-25
+# This file guides Large Language Models (LLMs) on how to interact with our content.
+
+# Block OpenAI (ChatGPT, GPT models) from accessing all content
+User-Agent: OpenAI
+Disallow: /
+
+# Block Anthropic (Claude AI) from accessing all content
+User-Agent: Anthropic
+Disallow: /
+
+# Allow GoogleAI (for summarization/indexing) but not premium or blog content
+User-Agent: GoogleAI
+Disallow: /blog/
+Disallow: /premium-content/
+Allow: /
+
+# Block MetaAI (LLaMA models)
+User-Agent: MetaAI
+Disallow: /
+
+# Apply general rule to all other LLMs
+User-Agent: *
+Disallow: /blog/
+Disallow: /premium-content/
+Allow: /
