@@ -1,0 +1,34 @@
+# aw-advantage.com llms.txt
+
+> Aw-Advantage.com is a digital marketing agency specializing in data-driven strategies across various platforms. The website provides services such as PPC, SEO, and social media management, along with case studies showcasing their successful campaigns. Visitors can learn more about the agency, book consultations, and access informative blog posts on digital marketing trends and techniques.
+
+- [Home](https://aw-advantage.com/): The main landing page that introduces the agency and its services.
+- [About Us](https://aw-advantage.com/about-us): A page detailing the agency's mission, values, and team.
+- [Blog](https://aw-advantage.com/blog): A collection of articles and insights on digital marketing strategies and trends.
+- [Book a Call with Us](https://aw-advantage.com/book-a-call-with-us): A page for scheduling consultations with the agency’s team.
+- [Booking Form](https://aw-advantage.com/booking-form): A form for clients to fill out to initiate the booking process.
+- [Case Studies](https://aw-advantage.com/case-studies): Showcases successful projects and results achieved for various clients.
+- [Category Blog](https://aw-advantage.com/category/blog): A categorized list of all blog posts for easier navigation.
+- [Contact Us](https://aw-advantage.com/contact-us): A page providing contact information and a form for inquiries.
+- [Cookie Policy](https://aw-advantage.com/cookie-policy): Information regarding the website’s use of cookies and user privacy.
+- [Data Driven Strategy from Social Media Experts](https://aw-advantage.com/data-driven-strategy-from-social-media-experts): An article discussing the importance of data in social media marketing strategies.
+- [Homepage Ads](https://aw-advantage.com/homepage-ads): A section detailing advertising options available on the homepage.
+- [Let's Chat](https://aw-advantage.com/lets-chat): A casual invitation for potential clients to initiate conversations with the team.
+- [Locations KML](https://aw-advantage.com/locations.kml): A KML file for mapping agency locations.
+- [PPC Services](https://aw-advantage.com/ppc-services): An overview of pay-per-click advertising services offered by the agency.
+- [PPC Success - AW Artisan Case Study](https://aw-advantage.com/ppc-success-aw-artisan-case-study): A detailed case study highlighting the success of PPC strategies for AW Artisan.
+- [Privacy Policy](https://aw-advantage.com/privacy-policy): Information on how the agency handles user data and privacy.
+- [SEO Services](https://aw-advantage.com/seo-services): A description of search engine optimization services provided by the agency.
+- [SEO Success - Kokos and More Case Study](https://aw-advantage.com/seo-success-kokos-and-more-case-study): A case study demonstrating successful SEO efforts for Kokos and More.
+- [Shopify SEO Service](https://aw-advantage.com/shopify-seo-service): A dedicated service page for SEO services tailored to Shopify users.
+- [SMM Services](https://aw-advantage.com/smm-services): An overview of social media marketing services offered.
+- [SMM Success - AW Artisan Portugal Case Study](https://aw-advantage.com/smm-success-aw-artisan-portugal-case-study): A case study showcasing the impact of SMM for AW Artisan in Portugal.
+- [Social Media Advertising Services](https://aw-advantage.com/social-media-advertising-services): Details on advertising services across various social media platforms.
+- [Social Media Management Services](https://aw-advantage.com/social-media-management-services): An overview of the agency's social media management offerings.
+- [Talk to Our Team](https://aw-advantage.com/talk-to-our-team): A page encouraging potential clients to reach out to the team for inquiries or discussions.
+- [Template Sub-Service Page](https://aw-advantage.com/template-sub-service-page): A placeholder or template page, likely for sub-services.
+- [Terms of Use](https://aw-advantage.com/terms-of-use): The legal terms governing the use of the website.
+- [The Art of Compelling Ad Content](https://aw-advantage.com/the-art-of-compelling-ad-content): An article focusing on creating engaging advertising content.
+- [The Importance of Regular Optimisation and Analysis](https://aw-advantage.com/the-importance-of-regular-optimisation-and-analysis): An article discussing the necessity of continual optimization in marketing efforts.
+- [The Team](https://aw-advantage.com/the-team): Introduces the team members and their expertise.
+- [What You Should Know About Keyword Research](https://aw-advantage.com/what-you-should-know-about-keyword-research): An informative piece on the importance and techniques of keyword research in SEO. ```
